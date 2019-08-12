@@ -1,0 +1,6 @@
+var person = "angry"
+if (person === "happy") {
+console.log("share a coke.")
+} else {
+console.log("tell them to chillax.")
+}
